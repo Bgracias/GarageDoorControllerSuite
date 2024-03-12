@@ -8,18 +8,19 @@ GarageFlasher - 10 seconds before the Garage Door is closed, this device will tr
 HomeDisplay2024 - Displays current state of the Garage Door.
 
 Details:
+
 GarageController:
-  Hardware - ESP32, Ultrasonic Sensor, Speaker
-  Schematic - TODO
-  Installation/Setup - TODO
+  Hardware - ESP32, Ultrasonic Sensor, Speaker.
+  Schematic - TODO.
+  Installation/Setup - TODO.
   
 GarageFlasher:
-  Hardware - ESP32, Relay
-  Schematic - TODO
-  Installation/Setup - TODO
+  Hardware - ESP32, Relay.
+  Schematic - TODO.
+  Installation/Setup - TODO.
 
 HomeDisplay2024:
-  Hardware - ESP32, Display Screen, Speaker
-  Schematic - TODO
-  Installation/Setup - TODO
+  Hardware - ESP32, Display Screen, Speaker.
+  Schematic - TODO.
+  Installation/Setup - TODO.
 
